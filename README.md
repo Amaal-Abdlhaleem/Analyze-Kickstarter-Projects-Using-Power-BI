@@ -1,6 +1,6 @@
 # **Analyze Kickstarter Projects Using Power BI**
 
-#### In this report, I will explain some analysis and predictions on Kickstarter Projects.
+#### In this report, I will explain some analysis and predictions on Kickstarter Projects until 2018.
 
 
 ![1](https://user-images.githubusercontent.com/65326291/132327608-c6cf7804-dbaf-48c6-bdd5-ed6189e73e99.png)
